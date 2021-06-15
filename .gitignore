@@ -1,0 +1,6 @@
+target/*
+*.xlsx
+*.xls
+.classpath
+.project
+.settings
